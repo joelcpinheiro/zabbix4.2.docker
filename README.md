@@ -6,7 +6,7 @@ docker-compose up -f docker-compose_v3.yaml -d .
 
 ### Understanding the hidden files:
 
-The file .env_agent has a configuration of zabbix agent;
-The file .env_db_mysql has a configuration of mysql server;
-The file .env_srv has a configuration of zabbix server;
-The file .env_web has a configuration of webserver nginx;
+The file .env_agent has a configuration of zabbix agent; <br>
+The file .env_db_mysql has a configuration of mysql server; <br>
+The file .env_srv has a configuration of zabbix server; <br>
+The file .env_web has a configuration of webserver nginx; <br>

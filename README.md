@@ -1,4 +1,4 @@
-## Zabbix Server 4.2 on Docker containers and a Grafana gift
+## Zabbix Server 4.2 on Docker containers and a Grafana version 7.0.6 gift
 ### Access the directory where the files are and build the stack with docker-compose, how describe below:
 ### Pre-requisites: docker-compose installed 
 

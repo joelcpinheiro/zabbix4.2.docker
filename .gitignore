@@ -1,2 +1,9 @@
 zbx_env
-zbx_env_original
+grafana.db
+png
+plugins
+.env_agent
+.env_srv
+.env_web
+.env_db_mysql
+

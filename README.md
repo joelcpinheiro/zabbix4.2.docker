@@ -1,7 +1,9 @@
-## Zabbix Server 4.0 on Docker containers
+## Zabbix Server 4.2 on Docker containers and a Grafana gift
 ### Access the directory where the files are and build the stack with docker-compose, how describe below:
+### Pre-requisites: docker-compose installed 
+
 ```sh
-docker-compose up -f docker-compose_v3.yaml -d . 
+docker-compose -f docker-compose_v3-4.2.yaml up -d  
 ```
 
 ### Understanding the hidden files:
